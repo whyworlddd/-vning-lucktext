@@ -1,0 +1,14 @@
+C:\Users\hugo.strid\dev\Lucktext\bin\Debug\net10.0\Lucktext.exe
+C:\Users\hugo.strid\dev\Lucktext\bin\Debug\net10.0\Lucktext.deps.json
+C:\Users\hugo.strid\dev\Lucktext\bin\Debug\net10.0\Lucktext.runtimeconfig.json
+C:\Users\hugo.strid\dev\Lucktext\bin\Debug\net10.0\Lucktext.dll
+C:\Users\hugo.strid\dev\Lucktext\bin\Debug\net10.0\Lucktext.pdb
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\Lucktext.AssemblyInfoInputs.cache
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\Lucktext.AssemblyInfo.cs
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\Lucktext.dll
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\refint\Lucktext.dll
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\Lucktext.pdb
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\Lucktext.genruntimeconfig.cache
+C:\Users\hugo.strid\dev\Lucktext\obj\Debug\net10.0\ref\Lucktext.dll
