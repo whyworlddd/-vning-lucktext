@@ -22,6 +22,6 @@ Console.WriteLine("är du redo?");
 
 Console.ReadLine();
 
-Console.WriteLine($"{name} {game} {}");
+Console.WriteLine($"{name}, {game}, {reason}, {years}, ok. du dog, the end.");
 
 Console.ReadLine();
